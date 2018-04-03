@@ -1,4 +1,4 @@
-- hosts: ec2-wordpress
+- hosts: wordpress
 
   roles:
     - server
