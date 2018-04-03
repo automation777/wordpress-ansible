@@ -1,4 +1,2 @@
 [wordpress]
-localhost ansible_connection=local
-[ec2-wordpress]
-34.232.78.27
+54.87.129.74
